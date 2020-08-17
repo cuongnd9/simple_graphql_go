@@ -1,6 +1,22 @@
-# go_template
+# graphql_go
 
-![golangci-lint status](https://github.com/103cuong/go_template/workflows/golangci-lint/badge.svg)
-[![Go Report Card](https://goreportcard.com/badge/github.com/103cuong/go_template)](https://goreportcard.com/report/github.com/103cuong/go_template)
+![golangci-lint status](https://github.com/103cuong/graphql_go/workflows/golangci-lint/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/103cuong/graphql_go)](https://goreportcard.com/report/github.com/103cuong/graphql_go)
 
-a lightweight template 🍼 to start a new golang 🦍 project
+implement ⚛️ graphql using golang.
+
+## installation
+
+```shell script
+go mod download
+```
+
+## usage
+
+```shell script
+go run main.go
+```
+
+## license
+
+MIT © [Cuong Tran](https://github.com/103cuong)

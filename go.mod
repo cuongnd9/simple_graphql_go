@@ -1,8 +1,5 @@
-module github.com/103cuong/go_template
+module github.com/103cuong/graphql_go
 
 go 1.14
 
-require (
-	github.com/103cuong/uid v0.1.0
-	github.com/Arkweid/lefthook v0.7.2 // indirect
-)
+require github.com/graph-gophers/graphql-go v0.0.0-20200622220639-c1d9693c95a6 // indirect
